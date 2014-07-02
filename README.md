@@ -17,6 +17,8 @@ Tutorials, blogs and resources
 ##Less & Sass
 *  Bootstrap LESS workflow
 <br  >http://www.helloerik.com/bootstrap-3-less-workflow-tutorial
+*  How to structure a Sass project
+<br  >http://thesassway.com/beginner/how-to-structure-a-sass-project
 
 ##Grid
 *  Bootstrap Grid
