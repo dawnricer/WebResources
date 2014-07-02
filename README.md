@@ -2,12 +2,16 @@
 
 Tutorials, blogs and resources
 
+##Command-line interface(CLI)
+*  Wikipedia
+<br >http://en.wikipedia.org/wiki/Command_line
+
 ##Editor
 * Sublime Text 2
 <br  >http://sublime-text-unofficial-documentation.readthedocs.org/en/sublime-text-2/
 * WebStorm
 <br  >http://www.jetbrains.com/webstorm/documentation/
-* Vim
+*  Vim
 <br >http://www.openvim.com/tutorial.html
 
 ##Less & Sass
