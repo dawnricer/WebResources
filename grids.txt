@@ -1,2 +1,0 @@
-1. The Subtle Magic Behind Why the Bootstrap 3 Grid Works
-http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works
