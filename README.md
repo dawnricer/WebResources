@@ -2,6 +2,14 @@
 
 Tutorials, blogs and resources
 
+##Editor
+* Sublime Text 2
+<br  >http://sublime-text-unofficial-documentation.readthedocs.org/en/sublime-text-2/
+* WebStorm
+<br  >http://www.jetbrains.com/webstorm/documentation/
+* Vim
+<br >http://www.openvim.com/tutorial.html
+
 ##Less & Sass
 *  Bootstrap LESS workflow
 <br  >http://www.helloerik.com/bootstrap-3-less-workflow-tutorial
